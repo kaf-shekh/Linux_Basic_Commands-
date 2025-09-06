@@ -1,4 +1,4 @@
-# Linux Commands Practice
+# Linux Basic Commands
 
 This repository contains practice tasks (1–7) for basic Linux commands with explanations and screenshots.
 
